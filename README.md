@@ -22,14 +22,3 @@ easy IPC, much more QoL stuff than other wlr-based compositors and more...
 <br>
 
 ---
-
-**[<kbd> <br> Install <br> </kbd>][Install]** 
-**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** 
-**[<kbd> <br> Configure <br> </kbd>][Configure]** 
-**[<kbd> <br> Contribute <br> </kbd>][Contribute]**
-
----
-
-<br>
-
-</div>
