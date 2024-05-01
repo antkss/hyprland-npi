@@ -1,0 +1,1 @@
+cmd='meson;setup;--reconfigure;build;--buildtype=release;-Dwerror=false;-Dxwayland=$<IF:$<BOOL:>,disabled,enabled>;-Dexamples=false;-Drenderers=gles2;-Dbackends=drm,libinput;$<IF:$<BOOL:>,-Db_sanitize=address,-Db_sanitize=none>'
